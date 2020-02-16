@@ -1,7 +1,7 @@
-# Bash
+#Bash
 (base) trishas-mbp:~ hahatrisha$  cd ~/Desktop/CourseraProjects/CourseraDS-capstone/
 (base) trishas-mbp:CourseraDS-capstone hahatrisha$ touch python_code.py
-# Bash
+#Bash
 (base) trishas-mbp:CourseraDS-capstone hahatrisha$ python3
 
 import pandas as pd
