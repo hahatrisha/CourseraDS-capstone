@@ -1,8 +1,14 @@
+Notes for creating python file in Terminal 
+
+Bash cheat sheet
+https://www.educative.io/blog/bash-shell-command-cheat-sheet
+
 #Bash
 (base) trishas-mbp:~ hahatrisha$  cd ~/Desktop/CourseraProjects/CourseraDS-capstone/
 (base) trishas-mbp:CourseraDS-capstone hahatrisha$ touch python_code.py
 #Bash
 (base) trishas-mbp:CourseraDS-capstone hahatrisha$ python3
+
 
 import pandas as pd
 import numpy as np
