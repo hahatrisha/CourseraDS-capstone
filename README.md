@@ -1,4 +1,4 @@
-# CourseraDS-capstone
+# CourseraDS-capstone project
 This repository is the capstone project for Coursera IBM Data Science Certificate- Applied Data Science
 
 How to Properly Setup Your Github Repository — Mac Version
