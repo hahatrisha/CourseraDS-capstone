@@ -3,3 +3,6 @@ This repository is the capstone project for Coursera IBM Data Science Certificat
 
 How to Properly Setup Your Github Repository — Mac Version
 https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-mac-version-3a8047b899e5
+
+
+New York City and the city of Toronto are both the financial capitals of their respective countries. They are also among the most multicultural cities in the world. People are always interested in exploring which city is better to live in. To achieve this goal, we will consider the similarities and differences between the two areas. We will also investigate the businesses and venues in either of the cities to generate insights on living accessibility and convenience. We will use the census data, AARP Livability Index, and Foursquare location data to compare the neighbourhoods of the two cities.
